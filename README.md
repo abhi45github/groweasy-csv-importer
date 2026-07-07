@@ -201,7 +201,7 @@ curl -X POST http://localhost:4000/api/import \
 ```jsonc
 {
   "success": true,
-  "provider": { "name": "gemini", "model": "gemini-2.0-flash", "heuristic": false },
+  "provider": { "name": "gemini", "model": "gemini-2.5-flash", "heuristic": false },
   "summary": {
     "totalRows": 6, "totalRowsInFile": 6,
     "imported": 5, "skipped": 1,
@@ -224,7 +224,7 @@ Backend environment variables (see [`backend/.env.example`](backend/.env.example
 | `PORT` | `4000` | API port |
 | `CORS_ORIGIN` | `*` | Allowed frontend origin(s), comma-separated |
 | `AI_PROVIDER` | `auto` | `auto` \| `gemini` \| `openai` \| `anthropic` |
-| `GEMINI_API_KEY` / `GEMINI_MODEL` | – / `gemini-2.0-flash` | Google Gemini |
+| `GEMINI_API_KEY` / `GEMINI_MODEL` | – / `gemini-2.5-flash` | Google Gemini |
 | `OPENAI_API_KEY` / `OPENAI_MODEL` | – / `gpt-4o-mini` | OpenAI |
 | `ANTHROPIC_API_KEY` / `ANTHROPIC_MODEL` | – / `claude-3-5-haiku-latest` | Anthropic |
 | `AI_BATCH_SIZE` | `25` | Rows per LLM request |
