@@ -1,0 +1,7 @@
+created_time,id,full_name,email,phone_number,city,campaign_name,form_name,lead_status
+2026-05-13T14:20:48+0000,f_1001,John Doe,john.doe@example.com,+91 98765 43210,Mumbai,Leads on Demand,Contact Form,Interested
+2026-05-13T14:25:30+0000,f_1002,Sarah Johnson,sarah.johnson@example.com,+919876543211,Bangalore,Meridian Tower Campaign,Contact Form,Not Reachable
+2026-05-13T14:30:15+0000,f_1003,Rajesh Patel,,+91 9876543212,Delhi,Eden Park Promo,Contact Form,Not Interested
+2026-05-13T14:35:22+0000,f_1004,Priya Singh,priya.singh@example.com,+91 98765 43213,Pune,Sarjapur Plots,Contact Form,Booked
+2026-05-13T14:40:10+0000,f_1005,Amit Kumar,amit@example.com,,Chennai,Leads on Demand,Newsletter,Callback Requested
+2026-05-13T14:45:55+0000,f_1006,Anonymous Visitor,,,Kolkata,Brand Awareness,Contact Form,New
