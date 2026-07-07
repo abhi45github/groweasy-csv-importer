@@ -12,21 +12,6 @@
 
 ---
 
-## 🔗 Live demo & submission
-
-| | |
-|---|---|
-| **Repository** | https://github.com/abhi45github/groweasy-csv-importer |
-| **Live app** | `<add your Vercel URL here after deploying the frontend>` |
-| **Backend API** | `<add your Render/Railway URL here after deploying the backend>` |
-| **Position** | Software Developer (Intern / Full-Time) |
-
-> ⚠️ **To enable real AI extraction**, set an LLM API key (see [Configuration](#-configuration)).
-> Without a key the app still works end-to-end using a built-in **heuristic mapper**,
-> so the demo never breaks — but the LLM path is where the intelligent mapping shines.
-
----
-
 ## ✨ What it does
 
 A guided, four-step flow:
