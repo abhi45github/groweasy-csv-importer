@@ -16,9 +16,9 @@
 
 | | |
 |---|---|
-| **Live app** | `<add your Vercel URL here>` |
-| **Backend API** | `<add your Render/Railway URL here>` |
-| **Repository** | `<add your GitHub URL here>` |
+| **Repository** | https://github.com/abhi45github/groweasy-csv-importer |
+| **Live app** | `<add your Vercel URL here after deploying the frontend>` |
+| **Backend API** | `<add your Render/Railway URL here after deploying the backend>` |
 | **Position** | Software Developer (Intern / Full-Time) |
 
 > ⚠️ **To enable real AI extraction**, set an LLM API key (see [Configuration](#-configuration)).
